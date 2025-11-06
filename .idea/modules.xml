@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/1/1.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/10/10.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/2/2.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/3/3.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/4/4.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/5/5.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/5/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/6/6.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/6/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/7/7.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/7/7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/8/8.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/8/8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/9/9.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/9/9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apuntes.iml" filepath="$PROJECT_DIR$/apuntes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej1/ej1.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej1/ej1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej2/ej2.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej2/ej2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej3/ej3.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej3/ej3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej4/ej4.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej4/ej4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej5/ej5.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej5/ej5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej6/ej6.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej6/ej6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ej7/ej7.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ej7/ej7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios-repaso/ejercicios-repaso.iml" filepath="$PROJECT_DIR$/ejercicios-repaso/ejercicios-repaso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/matrices.iml" filepath="$PROJECT_DIR$/matrices/matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/sensores/sensores.iml" filepath="$PROJECT_DIR$/matrices/sensores/sensores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/suma-mas-alta/suma-mas-alta.iml" filepath="$PROJECT_DIR$/matrices/suma-mas-alta/suma-mas-alta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/suma-matrices/suma-matrices.iml" filepath="$PROJECT_DIR$/matrices/suma-matrices/suma-matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices/suma-notas/suma-notas.iml" filepath="$PROJECT_DIR$/matrices/suma-notas/suma-notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimisimo-repaso/ultimisimo-repaso.iml" filepath="$PROJECT_DIR$/ultimisimo-repaso/ultimisimo-repaso.iml" />
+    </modules>
+  </component>
+</project>
